@@ -1,1 +1,1 @@
-javascript:void(window.open('https://untappd.com/search?q='+encodeURI(document.getElementsByClassName('product-single__vendor')[0].innerText + '+' + document.getElementsByClassName('product-single__title')[0].innerText)))
+javascript:void(window.open('https://untappd.com/search?q='+encodeURI(document.getElementsByClassName('product-meta__vendor')[0].innerText + '+' + document.getElementsByClassName('product-meta__title')[0].innerText)))
